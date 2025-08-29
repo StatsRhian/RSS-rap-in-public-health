@@ -6,13 +6,13 @@
 
 ## Presentations
 
-- [Breaking it up: our approach to RAP]() Georgina Anderson, Department of Health and Social Care
+- [Breaking it up: our approach to RAP](https://statsrhian.github.io/RSS-rap-in-public-health/Thursday-AM-Georgina-Anderson.pdf) Georgina Anderson, Department of Health and Social Care
 
 - [Automating Hospital Mortality Analytics: A Case Study in Reproducible Reporting at Public Health Scotland](), Cemre Su Lode & Mridula Nair, Public Health Scotland
 
-- [A practical perspective on adopting RAP tooling for winter hospital pressures forecasting](), Jack Kennedy, UK Health Security Agency
+- [A practical perspective on adopting RAP tooling for winter hospital pressures forecasting](https://statsrhian.github.io/RSS-rap-in-public-health/rap-in-pancasts.pdf), Jack Kennedy, UK Health Security Agency
 
-- [How does working reproducibly change how teams work?](), Rosemary Walmsley, Public Health Wales
+- [How does working reproducibly change how teams work?](https://statsrhian.github.io/RSS-rap-in-public-health/20250904_slides_reproducibility_teams_walmsley.pdf), Rosemary Walmsley, Public Health Wales
 
 - [Panel session notes](https://github.com/statsrhian/RSS-rap-in-public-health/blob/main/panel-session.md)
 
