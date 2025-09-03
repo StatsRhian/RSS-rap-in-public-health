@@ -8,7 +8,7 @@
 
 - [Breaking it up: our approach to RAP](https://statsrhian.github.io/RSS-rap-in-public-health/Thursday-AM-Georgina-Anderson.pdf) Georgina Anderson, Department of Health and Social Care
 
-- [Automating Hospital Mortality Analytics: A Case Study in Reproducible Reporting at Public Health Scotland](), Cemre Su Lode & Mridula Nair, Public Health Scotland
+- [Automating Hospital Mortality Analytics: A Case Study in Reproducible Reporting at Public Health Scotland](https://statsrhian.github.io/RSS-rap-in-public-health/HSMR.pdf), Cemre Su Lode & Mridula Nair, Public Health Scotland
 
 - [A practical perspective on adopting RAP tooling for winter hospital pressures forecasting](https://statsrhian.github.io/RSS-rap-in-public-health/rap-in-pancasts.pdf), Jack Kennedy, UK Health Security Agency
 
